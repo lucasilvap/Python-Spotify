@@ -11,6 +11,7 @@ Post Malone, também conhecido como Austin Richard Post, é um talentoso cantor,
 Para além de sua carreira musical, Post Malone é reconhecido por sua presença carismática e estilo distintivo, frequentemente associado a uma expressiva quantidade de tatuagens e piercings. 
 Sua abordagem eclética à música e o sucesso comercial alcançado solidificam sua posição como uma das figuras mais proeminentes na cena musical contemporânea.
 
+---
 <p align="center">
   <img src="https://globalnews.ca/wp-content/uploads/2019/09/saint-tropez-post-malone-2.jpg?quality=85&strip=all">
 </p>
